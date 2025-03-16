@@ -10,15 +10,19 @@
 ![image](https://github.com/user-attachments/assets/f11a80e9-e960-4c03-98df-fe0b5d1bc689)
 
 Тестирую программы(прикладываю одну фотографию огня, так как не увидел смысла два раза показывать одно и то же изображение😉).
+
+
 ![image](https://github.com/user-attachments/assets/538513dc-8062-419c-8e4b-d3b7c12afd16)
-![image](https://github.com/user-attachments/assets/092f10f3-a5f7-4f10-8b55-881568c20772)
 ![image](https://github.com/user-attachments/assets/342abd15-0b58-4faa-9ef3-879a20fe8a41)
+![image](https://github.com/user-attachments/assets/dbdf2278-a735-41a5-a64a-65593243d288)
+
 
 
 #  2. Создание сети между контейнерами:
 На данном этапе стал работать с terminator.
 Создаю сеть, подключаю контейнеры к ней
-![image](https://github.com/user-attachments/assets/017f9236-23d8-49da-b85f-62d89d1672eb)
+![image](https://github.com/user-attachments/assets/683622ca-6563-411e-a029-05370ebd14cb)
+
 
 Смотрю настройки созданной системы, в ней смотрю IPv4 контейнеров
 
