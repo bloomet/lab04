@@ -14,9 +14,6 @@
 
 ![image](https://github.com/user-attachments/assets/538513dc-8062-419c-8e4b-d3b7c12afd16)
 ![image](https://github.com/user-attachments/assets/342abd15-0b58-4faa-9ef3-879a20fe8a41)
-![image](https://github.com/user-attachments/assets/dbdf2278-a735-41a5-a64a-65593243d288)
-
-
 
 #  2. Создание сети между контейнерами:
 На данном этапе стал работать с terminator.
