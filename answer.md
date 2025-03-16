@@ -14,7 +14,7 @@
 
 ![image](https://github.com/user-attachments/assets/538513dc-8062-419c-8e4b-d3b7c12afd16)
 ![image](https://github.com/user-attachments/assets/342abd15-0b58-4faa-9ef3-879a20fe8a41)
-![image](https://github.com/user-attachments/assets/aa2182d8-7bff-4bc5-88b4-34444968490c)<td><td>
+![image](https://github.com/user-attachments/assets/aa2182d8-7bff-4bc5-88b4-34444968490c)<tb><tb>
 
 
 #  2. Создание сети между контейнерами:
