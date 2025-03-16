@@ -14,6 +14,8 @@
 
 ![image](https://github.com/user-attachments/assets/538513dc-8062-419c-8e4b-d3b7c12afd16)
 ![image](https://github.com/user-attachments/assets/342abd15-0b58-4faa-9ef3-879a20fe8a41)
+![image](https://github.com/user-attachments/assets/aa2182d8-7bff-4bc5-88b4-34444968490c)
+
 
 #  2. Создание сети между контейнерами:
 На данном этапе стал работать с terminator.
@@ -24,6 +26,13 @@
 Смотрю настройки созданной системы, в ней смотрю IPv4 контейнеров
 
 ![image](https://github.com/user-attachments/assets/d1ec8f43-3538-4028-a932-a76ecd5d57da)
+
+Далее проверяю связь между контейнерами, она в обоих случаях произведена успешна, так как кол-во потери пакетов равно 0.
+
+![image](https://github.com/user-attachments/assets/e557aeb0-8254-4983-9bd1-87aa59b12c03)
+![image](https://github.com/user-attachments/assets/f51017c1-6607-4615-bd4c-c0cf3fa7fb3f)
+
+
 
 
 
